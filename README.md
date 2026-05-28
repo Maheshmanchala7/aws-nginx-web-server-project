@@ -94,3 +94,16 @@ Accessed the website using the EC2 public IP.
 ## Outcome
 
 Successfully deployed a public web server using AWS EC2 and NGINX.
+## Project Screenshots
+
+### EC2 Instance
+![EC2](screenshots/ec2.png)
+
+### Security Group
+![SG](screenshots/sg.png)
+
+### NGINX Installation
+![NGINX](screenshots/nginx.png)
+
+### Website Output
+![Website](screenshots/website.png)
